@@ -47,17 +47,6 @@
         <mxCell id="z7gTDf9ey_LMjP9v-pDg-4" value="Oversættet version af morse code eller tekst" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="354" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z7gTDf9ey_LMjP9v-pDg-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z7gTDf9ey_LMjP9v-pDg-10" target="z7gTDf9ey_LMjP9v-pDg-8" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="213.99999999999977" y="680" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="160" y="720" />
-              <mxPoint x="160" y="780" />
-              <mxPoint x="230" y="780" />
-              <mxPoint x="230" y="790" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="z7gTDf9ey_LMjP9v-pDg-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z7gTDf9ey_LMjP9v-pDg-8" target="z7gTDf9ey_LMjP9v-pDg-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -68,13 +57,16 @@
         <mxCell id="z7gTDf9ey_LMjP9v-pDg-8" value="Oversættet version af morse code eller teskt men med lyd" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="90" y="760" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="PJ75DDIV-abARpFfJCdc-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z7gTDf9ey_LMjP9v-pDg-10" target="z7gTDf9ey_LMjP9v-pDg-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="z7gTDf9ey_LMjP9v-pDg-10" value="Sound on/off" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="230" y="680" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="z7gTDf9ey_LMjP9v-pDg-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z7gTDf9ey_LMjP9v-pDg-13" target="z7gTDf9ey_LMjP9v-pDg-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z7gTDf9ey_LMjP9v-pDg-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z7gTDf9ey_LMjP9v-pDg-13" edge="1">
+        <mxCell id="z7gTDf9ey_LMjP9v-pDg-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z7gTDf9ey_LMjP9v-pDg-13" edge="1" target="z7gTDf9ey_LMjP9v-pDg-22">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="313.9999999999998" y="940" as="targetPoint" />
           </mxGeometry>
