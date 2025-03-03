@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.14">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1257" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1100" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -18,10 +18,14 @@
         <mxCell id="4ye4V1tKf7mEJkrVr7zk-4" value="Load sound libary" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="354" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z7gTDf9ey_LMjP9v-pDg-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4ye4V1tKf7mEJkrVr7zk-5" target="z7gTDf9ey_LMjP9v-pDg-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="z7gTDf9ey_LMjP9v-pDg-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z7gTDf9ey_LMjP9v-pDg-10" target="z7gTDf9ey_LMjP9v-pDg-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="720" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="z7gTDf9ey_LMjP9v-pDg-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4ye4V1tKf7mEJkrVr7zk-5">
+        <mxCell id="z7gTDf9ey_LMjP9v-pDg-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4ye4V1tKf7mEJkrVr7zk-5" target="z7gTDf9ey_LMjP9v-pDg-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="263.9999999999998" y="650" as="targetPoint" />
           </mxGeometry>
@@ -43,25 +47,29 @@
         <mxCell id="z7gTDf9ey_LMjP9v-pDg-4" value="Oversættet version af morse code eller tekst" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z7gTDf9ey_LMjP9v-pDg-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="z7gTDf9ey_LMjP9v-pDg-8">
+        <mxCell id="z7gTDf9ey_LMjP9v-pDg-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z7gTDf9ey_LMjP9v-pDg-10" target="z7gTDf9ey_LMjP9v-pDg-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="213.99999999999977" y="680" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="160" y="720" />
+              <mxPoint x="160" y="780" />
+              <mxPoint x="230" y="780" />
+              <mxPoint x="230" y="790" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="z7gTDf9ey_LMjP9v-pDg-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z7gTDf9ey_LMjP9v-pDg-8" target="z7gTDf9ey_LMjP9v-pDg-22">
+        <mxCell id="z7gTDf9ey_LMjP9v-pDg-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z7gTDf9ey_LMjP9v-pDg-8" target="z7gTDf9ey_LMjP9v-pDg-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="214" y="860" />
-              <mxPoint x="410" y="860" />
-              <mxPoint x="410" y="940" />
+              <mxPoint x="414" y="860" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="z7gTDf9ey_LMjP9v-pDg-8" value="Oversættet version af morse code eller teskt men med lyd" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="154" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z7gTDf9ey_LMjP9v-pDg-10" value="Sound on/off" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="174" y="610" width="80" height="80" as="geometry" />
+          <mxGeometry x="230" y="680" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="z7gTDf9ey_LMjP9v-pDg-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z7gTDf9ey_LMjP9v-pDg-13" target="z7gTDf9ey_LMjP9v-pDg-14">
           <mxGeometry relative="1" as="geometry" />
@@ -85,6 +93,9 @@
         </mxCell>
         <mxCell id="z7gTDf9ey_LMjP9v-pDg-14" value="Restart" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="514" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z7gTDf9ey_LMjP9v-pDg-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z7gTDf9ey_LMjP9v-pDg-20" target="4ye4V1tKf7mEJkrVr7zk-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z7gTDf9ey_LMjP9v-pDg-20" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="170" width="120" height="80" as="geometry" />
